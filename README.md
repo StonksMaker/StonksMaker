@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StonksMaker
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Pyhton
-- 📫 How to reach me : julienbayo06@gmail.com
+- 📫 How to reach me : vrchatamixem@gmail.com
 
 <!---
 StonksMaker/StonksMaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
